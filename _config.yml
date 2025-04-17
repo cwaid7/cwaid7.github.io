@@ -1,0 +1,8 @@
+title: Chris Waid
+description: Personal site, portfolio, and resume.
+theme: jekyll-theme-slate  # 👈 change to any supported theme
+plugins:
+  - jekyll-feed
+
+# Optional extras:
+show_downloads: false
